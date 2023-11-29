@@ -78,6 +78,11 @@ It will alow the user to make friends, state their thougths and react to the tho
 ![Github license](https://img.shields.io/badge/Language-JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-NodeJs,Mongoose,ExpressJs,MongoDB-blue.svg)
 ## Dependencies
+express version 4.18.2
+
+mongodb version 4.17.1
+
+mongoose version 6.12.3
 
 ## Questions
 Please send your questions by email:  Bradm1492@gmail.com or visit [github/Boilermaker74](https://github.com/Boilermaker74).
