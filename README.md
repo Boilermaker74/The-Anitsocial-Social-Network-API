@@ -34,7 +34,34 @@ Type npm start into the terminal
 
 Once you see the Now Listening indication you may open up Insomnia.
 ## How to Use This Application:
-how to use
+Once the server is spun up, Insomnia is used to access the avai;able route to access the app. The routes avai;able are:
+
+GET /api/users/:userID 
+
+POST /api/users 
+
+PUT /api/users/:userID 
+
+DELETE /api/users/:userID 
+
+POST /api/users/:userID/friends/:friendID 
+
+DELETE /api/users/:userID/friends/:friendID 
+
+GET /api/thoughts 
+
+GET /api/thoughts/:thoughtID 
+
+POST /api/thoughts 
+
+PUT /api/thoughts/:thoughtID 
+
+DELETE /api/thoughts/:thoughtID 
+
+POST /api/thoughts/:thoughtID/reactions 
+
+DELETE /api/thoughts/:thoughtID/reactions/reactionID 
+
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
@@ -47,6 +74,6 @@ It will alow the user to make friends, state their thougths and react to the tho
 ![Github license](https://img.shields.io/badge/Language-JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-NodeJs,Mongoose,ExpressJs,MongoDB-blue.svg)
 ## Dependencies
-dependancies
+
 ## Questions
 Please send your questions by email:  Bradm1492@gmail.com or visit [github/Boilermaker74](https://github.com/Boilermaker74).
