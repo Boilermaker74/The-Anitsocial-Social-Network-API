@@ -34,6 +34,8 @@ Type npm start into the terminal
 
 Once you see the Now Listening indication you may open up Insomnia.
 ## How to Use This Application:
+A walkthrught video showing the application in action is available at https://app.screencastify.com/v2/watch/LpgvLJdm5KdLqkTkJJ79
+
 Once the server is spun up, Insomnia is used to access the available route to access the app. The routes available are:
 
 GET /api/users
