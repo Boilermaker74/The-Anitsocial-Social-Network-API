@@ -3,7 +3,7 @@
 ## Description
 The Antisocial Social Network application is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.  It employed a MongoDB database for storage, and Mongoose ODM. Express.js for routing and the JavaScript Date object was used to format timestamps. Insomnia must be used to utilize and manipulate the database. 
 ## Deployed Application URL
-There is no Url. The api must be cloned from the github repository located here. The api can be utilized via the insomnia design tool. 
+There is no Url. The api must be cloned from the github repository located at https://github.com/Boilermaker74/The-Anitsocial-Social-Network-API. The api can be utilized via the insomnia design tool. 
 ## Table of Contents
 * [Installation](#installation)
 * [How to Use This Application](#how-to-use-this-application)
@@ -34,7 +34,9 @@ Type npm start into the terminal
 
 Once you see the Now Listening indication you may open up Insomnia.
 ## How to Use This Application:
-Once the server is spun up, Insomnia is used to access the avai;able route to access the app. The routes avai;able are:
+Once the server is spun up, Insomnia is used to access the available route to access the app. The routes available are:
+
+GET /api/users
 
 GET /api/users/:userID 
 
