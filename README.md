@@ -17,13 +17,21 @@ There is no Url. The api must be cloned from the github repository located here.
 
 ## Installation
 Clone the github repository
+
 Open terminal and navigate to social_network_api folder
+
 Type npm init -y into terminal to create a new .json file
+
 Type npm i into terminal
+
 Type npm i express into terminal
+
 Type npm i mongoose into terminal
+
 Type npm i moment into terminal
+
 Type npm start into the terminal
+
 Once you see the Now Listening indication you may open up Insomnia.
 ## How to Use This Application:
 how to use
